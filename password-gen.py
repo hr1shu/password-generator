@@ -16,3 +16,4 @@ if __name__ == "__main__":
     random.shuffle(s)
     print("Your password is:")
     print("".join(s[0:plen]))
+    input("press 'e' to exit\n")
